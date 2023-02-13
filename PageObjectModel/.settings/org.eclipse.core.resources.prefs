@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//src/com/tester/base/BaseSetup.java=UTF-8
+encoding//src/com/tester/pages/DashboardPage.java=UTF-8
+encoding//src/com/tester/pages/SignInPage.java=UTF-8
+encoding//src/com/tester/pages/SignInPageFactory.java=UTF-8
+encoding//src/com/tester/testcase/DashboardTest.java=UTF-8
+encoding//src/com/tester/testcase/SignInTest.java=UTF-8

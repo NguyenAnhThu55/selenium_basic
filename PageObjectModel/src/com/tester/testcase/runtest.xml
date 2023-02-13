@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Page Object test example">
+	<parameter name="browserType" value="chrome" />
+	<parameter name="appURL"
+		value="https://www.google.com" />
+
+	<test name="sample test">
+		<classes>
+			<class name="com.tester.testcase.SignInTest">
+				<methods>
+					<include name="signIn" />
+				</methods>
+			</class>
+		</classes>
+	</test>
+</suite>
